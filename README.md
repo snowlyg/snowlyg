@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there，I'm [Snowlyg!](https://github.com/snowlyg) 👋 👋
 
 <!--
 **snowlyg/snowlyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My main programming languages are:
+
+  - Go(lang)
+
+My second programming languages are:
+
+  - PHP
+  - JS
+  
+  If you have an interesting job write me by email or skype deepweb2
+  
+
+[![Ido's github stats](https://github-readme-stats.vercel.app/api?username=snowlyg)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/AndreySemochkin">donating</a> to help it improve!
+
 
