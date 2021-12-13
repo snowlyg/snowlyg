@@ -1,5 +1,5 @@
 <div align=center>
-  <img width = '220' src="bannerBackground.png"/><img width = '220'  src="bannerBackground.png"/><img width = '220'  src="bannerBackground.png"/><img width = '220'  src="bannerBackground.png"/>
+  <img width = '200' src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/>
 </div>
 
 ### Hi there，I'm [Snowlyg!](https://github.com/snowlyg) 👋 👋
