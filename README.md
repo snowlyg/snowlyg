@@ -1,4 +1,4 @@
-![banner](bannerBackground.png)![banner](bannerBackground.png)![banner](bannerBackground.png)
+![banner](bannerBackground.png)![banner](bannerBackground.png)![banner](bannerBackground.png)![banner](bannerBackground.png)
 ### Hi there，I'm [Snowlyg!](https://github.com/snowlyg) 👋 👋
 
 <!--
