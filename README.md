@@ -1,4 +1,4 @@
-![banner](4482766.png)
+![banner](bannerBackground.png)
 ### Hi there，I'm [Snowlyg!](https://github.com/snowlyg) 👋 👋
 
 <!--
