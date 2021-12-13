@@ -1,4 +1,7 @@
-![banner](bannerBackground.png)![banner](bannerBackground.png)![banner](bannerBackground.png)![banner](bannerBackground.png)
+<div align=center>
+  <img width = '220' src="bannerBackground.png"/><img width = '220'  src="bannerBackground.png"/><img width = '220'  src="bannerBackground.png"/><img width = '220'  src="bannerBackground.png"/>
+</div>
+
 ### Hi there，I'm [Snowlyg!](https://github.com/snowlyg) 👋 👋
 
 <!--
