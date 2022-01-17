@@ -37,7 +37,7 @@ My second programming languages are:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snowlyg&theme=github)
 <!--  [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=snowlyg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--
+
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/snowlyg">donating</a> to help it improve!
--->
+
 
