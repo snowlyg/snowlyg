@@ -30,7 +30,11 @@ My second programming languages are:
   
   If you have an interesting job write me by email or skype deepweb2
   
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowlyg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowlyg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snowlyg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snowlyg&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snowlyg&theme=github)
 [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=snowlyg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
