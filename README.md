@@ -38,6 +38,6 @@ My second programming languages are:
 <!--  [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=snowlyg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/snowlyg">donating</a> to help it improve!
+<p align="center">Loved the project? Please consider <a href="https://paypal.me/snowlyg?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!
 
 
