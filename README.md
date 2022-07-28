@@ -1,9 +1,9 @@
-<div  id="header"  align=center>
-  <img width = '200' src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/>
-</div>
+<div id="header" align="center">
+  <img width = '300' hight = '300'  src="https://github.com/snowlyg/snowlyg/blob/main/giphy.gif"/>
+</div> <br>
 
-### Hi there，I'm [Snowlyg!](https://github.com/snowlyg) 👋 👋
-<div >
+<div align="center">
+  <h1> Hi there，I'm Snowlyg! 👋 👋</h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/%E4%B8%B9-%E7%BD%97-3704a21a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,8 +17,6 @@
   </a>
 </div>
 </div>
-
-![Profile views](https://gpvc.arturio.dev/snowlyg)
 
 <!--
 **snowlyg/snowlyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,4 +56,4 @@ My second programming languages are:
 
 <p align="center">Loved the project? Please consider <a href="https://paypal.me/snowlyg?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!
 
-
+![Profile views](https://gpvc.arturio.dev/snowlyg)
