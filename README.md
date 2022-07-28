@@ -1,8 +1,24 @@
-<div align=center>
+<div  id="header"  align=center>
   <img width = '200' src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/><img width = '200'  src="bannerBackground.png"/>
 </div>
 
 ### Hi there，I'm [Snowlyg!](https://github.com/snowlyg) 👋 👋
+<div >
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/%E4%B8%B9-%E7%BD%97-3704a21a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <a href="https://twitter.com/ld_snowlyg">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        
+  <a href="https://dev.to/snowlyg">
+<img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=Dev&logoColor=white" alt="Dev Badge"/>
+<br> 
+  </a>
+</div>
+</div>
+
+![Profile views](https://gpvc.arturio.dev/snowlyg)
 
 <!--
 **snowlyg/snowlyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +43,8 @@ My second programming languages are:
 
   - PHP
   - JS
+  - Java
+  - Python
   
   If you have an interesting job write me by email or skype deepweb2
   
