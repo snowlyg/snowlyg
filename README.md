@@ -5,14 +5,14 @@
 
 <div id="body" align="center">
   <h1> Hi there，I'm Snowlyg! 👋 👋</h1>
+  <br>
   <div>
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/Usual-Introduction71?color=blue&label=Reddit%20User&logo=snowlyg&logoColor=blue&style=for-the-badge">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ld_snowlyg?color=blue&label=Twitter&logo=snowlyg&logoColor=Blue&style=for-the-badge">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/snowlyg?color=blue&label=GitHub%20followers&logo=snowlyg&logoColor=blue&style=for-the-badge">
   </div>
 </div>
-
-</div>
+<br>
 
 <!--
 **snowlyg/snowlyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
