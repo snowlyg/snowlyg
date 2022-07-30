@@ -51,5 +51,3 @@ My second programming languages are:
 
 
 <p align="center">Loved the project? Please consider <a href="https://paypal.me/snowlyg?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!
-
-![Profile views](https://gpvc.arturio.dev/snowlyg)
