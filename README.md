@@ -1,21 +1,17 @@
 <div id="header" align="center">
   <img width = '300' hight = '300'  src="https://github.com/snowlyg/snowlyg/blob/main/giphy.gif"/>
-</div> <br>
+</div> 
+<br>
 
-<div align="center">
+<div id="body" align="center">
   <h1> Hi there，I'm Snowlyg! 👋 👋</h1>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/%E4%B8%B9-%E7%BD%97-3704a21a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-  <a href="https://twitter.com/ld_snowlyg">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-        
-  <a href="https://dev.to/snowlyg">
-<img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=Dev&logoColor=white" alt="Dev Badge"/>
-<br> 
-  </a>
+  <div>
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/Usual-Introduction71?color=blue&label=Reddit%20User&logo=snowlyg&logoColor=blue&style=for-the-badge">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ld_snowlyg?color=blue&label=Twitter&logo=snowlyg&logoColor=Blue&style=for-the-badge">
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/snowlyg?color=blue&label=GitHub%20followers&logo=snowlyg&logoColor=blue&style=for-the-badge">
+  </div>
 </div>
+
 </div>
 
 <!--
