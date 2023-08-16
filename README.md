@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <!--   <img width = '300' hight = '300'  src="https://github.com/snowlyg/snowlyg/blob/main/giphy.gif"/> -->
-[<!--   <img width = '300' hight = '300'  src="https://github.com/snowlyg/snowlyg/blob/main/giphy.gif"/> -->](https://anime-girls-holding-programming-books.netlify.app/Go)
+<img width = '300' hight = '300'  src="https://anime-girls-holding-programming-books.netlify.app/static/Lain_Reading_The_Go_Programming_Lanquage-7a39d2af1b1bc5ad9f7a4036675289c8.png"/>
 </div> 
 <br>
 
