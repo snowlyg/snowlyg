@@ -1,6 +1,7 @@
 <div id="header" align="center">
 <!--   <img width = '300' hight = '300'  src="https://github.com/snowlyg/snowlyg/blob/main/giphy.gif"/> -->
-<img width = '300' hight = '300'  src="https://anime-girls-holding-programming-books.netlify.app/static/Lain_Reading_The_Go_Programming_Lanquage-7a39d2af1b1bc5ad9f7a4036675289c8.png"/>
+<img width = '300' hight = '300'  src=" https://anime-girls-holding-programming-books.netlify.app/static/Yaoyorozu_Momo_Holding_Go_Programming_Language-b5f73b96a822664c23fe22e11f23bdfc.png"/>
+
 </div> 
 <br>
 
