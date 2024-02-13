@@ -42,7 +42,12 @@ My second programming languages are:
   - Java
   - Python
   
-  If you have an interesting job write me by email or skype deepweb2
+  If you have an interesting job write me by email or twiiter
+
+  Email: `brendenaudrina6287@gmail.com`
+  Twiiter: `https://twitter.com/ld_snowlyg`
+  
+  
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowlyg&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowlyg&theme=github)
