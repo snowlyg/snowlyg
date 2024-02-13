@@ -44,8 +44,8 @@ My second programming languages are:
   
   If you have an interesting job write me by email or twiiter
 
-  Email: `brendenaudrina6287@gmail.com`
-  Twiiter: `https://twitter.com/ld_snowlyg`
+  - Email: `brendenaudrina6287@gmail.com`
+  - Twiiter: `https://twitter.com/ld_snowlyg`
   
   
   
