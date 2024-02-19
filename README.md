@@ -10,7 +10,7 @@
   <br>
   <div>
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/Usual-Introduction71?color=blue&label=Reddit&logo=snowlyg&logoColor=blue&style=for-the-badge">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ld_snowlyg?color=blue&label=Twitter&logo=snowlyg&logoColor=Blue&style=for-the-badge">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rodin990?color=blue&label=Twitter&logo=snowlyg&logoColor=Blue&style=for-the-badge">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/snowlyg?color=blue&label=GitHub&logo=snowlyg&logoColor=blue&style=for-the-badge">
   </div>
 </div>
@@ -45,7 +45,7 @@ My second programming languages are:
   If you have an interesting job write me by email or twiiter
 
   - Email: `brendenaudrina6287@gmail.com`
-  - Twiiter: `https://twitter.com/ld_snowlyg`
+  - Twiiter: `https://twitter.com/rodin990`
   
   
   
