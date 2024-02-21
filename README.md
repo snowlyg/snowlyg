@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<!--   <img width = '300' hight = '300'  src="https://github.com/snowlyg/snowlyg/blob/main/giphy.gif"/> -->
-<img width = '300' hight = '300'  src="https://anime-girls-holding-programming-books.netlify.app/static/Takebe_Saori_on_Web_Assembly_With_Rust-8f70c36b6823036ee259737b6088e2b8.png"/>
+<img width = '300' hight = '300'  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoaTh3c2oxOTlxNnRnNWxjb3Q4cmh1cnZnbHpnbzhnOHptNnc5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<!-- <img width = '300' hight = '300'  src="https://anime-girls-holding-programming-books.netlify.app/static/Takebe_Saori_on_Web_Assembly_With_Rust-8f70c36b6823036ee259737b6088e2b8.png"/> -->
 
 </div> 
 <br>
