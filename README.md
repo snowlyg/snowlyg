@@ -40,6 +40,8 @@ My second programming languages are:
   - JS
   - Java
   - Python
+  - WEBRTC
+  - GRPC
   
   If you have an interesting job write me by email or twiiter
 
