@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
   - [如何在复杂的局域网网络情况下，保证视频电话功能的稳定使用？](https://emphasized-burst-0c5.notion.site/111e8b936fa681519c28c6cde831ff89)
-  - 如何降噪、消除回声，从而获得更好的通话体验？
+  - [如何降噪、消除回声，从而获得更好的通话体验？](https://emphasized-burst-0c5.notion.site/181e8b936fa6806fb421e5bd2b32591e)
 - 📫 How to reach me: 
 
   - Email: `brendenaudrina6287@gmail.com`
