@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on:
   - [如何在复杂的局域网网络情况下，保证视频电话功能的稳定使用？](https://emphasized-burst-0c5.notion.site/111e8b936fa681519c28c6cde831ff89)
   - [如何降噪、消除回声，从而获得更好的通话体验？](https://emphasized-burst-0c5.notion.site/181e8b936fa6806fb421e5bd2b32591e)
+  - [搭建多级局域网测试WEBETC音视频通话情况](https://emphasized-burst-0c5.notion.site/WEBETC-1a0e8b936fa6800e9132fb37eaf54cad)
+  - [记一次线上Golang并发死锁问题排查](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)
 - 📫 How to reach me: 
 
   - Email: `brendenaudrina6287@gmail.com`
