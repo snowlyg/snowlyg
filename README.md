@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   - [搭建多级局域网测试WEBETC音视频通话情况](https://emphasized-burst-0c5.notion.site/WEBETC-1a0e8b936fa6800e9132fb37eaf54cad)
   - [记一次线上Golang并发死锁问题排查](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)
   - [音视频通话质量测试](./test.docx)
+  - [Mac M2 Docker 环境下编译  Open Harmony 5.0.1 WEBRTC](https://emphasized-burst-0c5.notion.site/Mac-M2-Docker-Open-Harmony-5-0-1-WEBRTC-1f9e8b936fa680659708d19287b7b779?pvs=4)
 - 📫 How to reach me: 
 
   - Email: `brendenaudrina6287@gmail.com`
