@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - [记一次线上Golang并发死锁问题排查](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)
   - [音视频通话质量测试](./test.docx)
   - [Mac M2 Docker 环境下编译  Open Harmony 5.0.1 WEBRTC](https://emphasized-burst-0c5.notion.site/Mac-M2-Docker-Open-Harmony-5-0-1-WEBRTC-1f9e8b936fa680659708d19287b7b779?pvs=4)
+  - [Docker 部署 SeamlessM4T-v2 模型](https://emphasized-burst-0c5.notion.site/ebd/255e8b936fa680d48c91f9e042846af0)
 - 📫 How to reach me: 
 
   - Email: `brendenaudrina6287@gmail.com`
