@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - [音视频通话质量测试](./test.docx)
   - [Mac M2 Docker 环境下编译  Open Harmony 5.0.1 WEBRTC](https://emphasized-burst-0c5.notion.site/Mac-M2-Docker-Open-Harmony-5-0-1-WEBRTC-1f9e8b936fa680659708d19287b7b779?pvs=4)
   - [Docker 部署 SeamlessM4T-v2 模型](https://emphasized-burst-0c5.notion.site/ebd/255e8b936fa680d48c91f9e042846af0)
-  - [局域网 WEBRTC+FFMPEG+RNN 实现通话背景噪声消除](https://emphasized-burst-0c5.notion.site/WEBRTC-FFMPEG-RNN-278e8b936fa680778d12ed44d36b58c1)
+  - [WEBRTC+FFMPEG+RNN 服务端实现通话背景噪声消除](https://emphasized-burst-0c5.notion.site/WEBRTC-FFMPEG-RNN-278e8b936fa680778d12ed44d36b58c1)
 - 📫 How to reach me: 
 
   - Email: `brendenaudrina6287@gmail.com`
