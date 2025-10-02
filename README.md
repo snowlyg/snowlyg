@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   - [如何降噪、消除回声，从而获得更好的通话体验？](https://emphasized-burst-0c5.notion.site/181e8b936fa6806fb421e5bd2b32591e)
   - [搭建多级局域网测试WEBETC音视频通话情况](https://emphasized-burst-0c5.notion.site/WEBETC-1a0e8b936fa6800e9132fb37eaf54cad)
   - [记一次线上Golang并发死锁问题排查](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)
-  - [音视频通话质量测试](./test.docx)
   - [Mac M2 Docker 环境下编译  Open Harmony 5.0.1 WEBRTC](https://emphasized-burst-0c5.notion.site/Mac-M2-Docker-Open-Harmony-5-0-1-WEBRTC-1f9e8b936fa680659708d19287b7b779?pvs=4)
   - [Docker 部署 SeamlessM4T-v2 模型](https://emphasized-burst-0c5.notion.site/ebd/255e8b936fa680d48c91f9e042846af0)
   - [WEBRTC+FFMPEG+RNN 服务端实现通话背景噪声消除](https://emphasized-burst-0c5.notion.site/WEBRTC-FFMPEG-RNN-278e8b936fa680778d12ed44d36b58c1)
