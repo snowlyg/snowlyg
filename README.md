@@ -30,6 +30,7 @@
   - [Docker 部署 SeamlessM4T-v2 模型](https://emphasized-burst-0c5.notion.site/ebd/255e8b936fa680d48c91f9e042846af0)
   - [WEBRTC+FFMPEG+RNN 服务端实现通话背景噪声消除](https://emphasized-burst-0c5.notion.site/WEBRTC-FFMPEG-RNN-278e8b936fa680778d12ed44d36b58c1)
   - [如何利用AEC_DUMP工具直观的调试安卓设备WEBRTC音频3A算法表现](https://emphasized-burst-0c5.notion.site/AEC_DUMP-WEBRTC-3A-292e8b936fa68051a79bfbc385d27cfa?pvs=73)
+  - [WEBRTC 音频模块(audio-processing)移植与编译](https://emphasized-burst-0c5.notion.site/WEBRTC-audio-processing-29ae8b936fa680069c48cda44bc7fa79)
 - 📫 How to reach me: 
 
   - Email: `brendenaudrina6287@gmail.com`
