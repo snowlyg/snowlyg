@@ -1,69 +1,229 @@
-<div id="header" align="center">
-<img width = '300' hight = '300'  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoaTh3c2oxOTlxNnRnNWxjb3Q4cmh1cnZnbHpnbzhnOHptNnc5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
-<!-- <img width = '300' hight = '300'  src="https://anime-girls-holding-programming-books.netlify.app/static/Takebe_Saori_on_Web_Assembly_With_Rust-8f70c36b6823036ee259737b6088e2b8.png"/> -->
+<div align="center">
 
-</div> 
-<br>
+<img width="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoaTh3c2oxOTlxNnRnNWxjb3Q4cmh1cnZnbHpnbzhnOHptNnc5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-<div id="body" align="center">
-  <h1> Hi there，I'm Rodin! 👋 👋</h1>
-  <br>
-  <div>
-  <a target="_blank" href="https://github.com/snowlyg"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/snowlyg"></a>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/snowlyg">
+# Rodin
+
+Real-time Communication Infrastructure Engineer
+
+Building RTC systems with **Go + WebRTC**
+
 </div>
-</div>
-<br>
 
-<!--
-**snowlyg/snowlyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
 
-<b> 🤔 Looking for a golang\webrtc related job, welcome to contact me. </b>
+# About Me
 
-- 🔭 I’m currently working on:
-  - [如何在复杂的局域网网络情况下，保证视频电话功能的稳定使用？](https://emphasized-burst-0c5.notion.site/111e8b936fa681519c28c6cde831ff89)
-  - [如何降噪、消除回声，从而获得更好的通话体验？](https://emphasized-burst-0c5.notion.site/181e8b936fa6806fb421e5bd2b32591e)
-  - [搭建多级局域网测试WEBETC音视频通话情况](https://emphasized-burst-0c5.notion.site/WEBETC-1a0e8b936fa6800e9132fb37eaf54cad)
-  - [记一次线上Golang并发死锁问题排查](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)
-  - [Mac M2 Docker 环境下编译  Open Harmony 5.0.1 WEBRTC](https://emphasized-burst-0c5.notion.site/Mac-M2-Docker-Open-Harmony-5-0-1-WEBRTC-1f9e8b936fa680659708d19287b7b779?pvs=4)
-  - [Docker 部署 SeamlessM4T-v2 模型](https://emphasized-burst-0c5.notion.site/ebd/255e8b936fa680d48c91f9e042846af0)
-  - [WEBRTC+FFMPEG+RNN 服务端实现通话背景噪声消除](https://emphasized-burst-0c5.notion.site/WEBRTC-FFMPEG-RNN-278e8b936fa680778d12ed44d36b58c1)
-  - [如何利用AEC_DUMP工具直观的调试安卓设备WEBRTC音频3A算法表现](https://emphasized-burst-0c5.notion.site/AEC_DUMP-WEBRTC-3A-292e8b936fa68051a79bfbc385d27cfa?pvs=73)
-  - [WEBRTC 音频模块(audio-processing)移植与编译](https://emphasized-burst-0c5.notion.site/WEBRTC-audio-processing-29ae8b936fa680069c48cda44bc7fa79)
-  - [Android14 音视频在配置 coturn 中继服务的情况下，通话中会自动断开的问题排查和分析](https://emphasized-burst-0c5.notion.site/Android14-coturn-2fee8b936fa680daba3cc30dc25d782d?pvs=73)
-- 📫 How to reach me: 
+I am a backend engineer specializing in **real-time communication infrastructure**.
 
-  - Email: `brendenaudrina6287@gmail.com`
-  - Twiiter: <a target="_blank" href="https://twitter.com/rodin990"> <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/rodin990"></a>
-<!--
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on designing and building systems such as:
 
-My main programming languages are:
+- WebRTC signaling services
+- real-time call gateways
+- session orchestration layers
+- distributed backend services
+- streaming and media systems
 
-  - Go(lang)
+I have extensive experience building **Go-based RTC systems integrating WebRTC, gRPC, WebSocket, and MQTT**.
 
-My second programming languages are:
+I am particularly interested in solving problems around:
 
-  - PHP
-  - JS
-  - Java
-  - Python
-  - WEBRTC
-  - GRPC
-  
+- weak network communication
+- WebRTC audio processing
+- real-time system architecture
+- backend infrastructure for RTC platforms
+
+---
+
+# Core Technical Focus
+
+### Real-time communication systems
+
+Designing backend infrastructure for real-time video/audio communication.
+
+### WebRTC infrastructure
+
+- Pion WebRTC integration
+- ICE / STUN / TURN
+- signaling architecture
+- session lifecycle management
+
+### Distributed backend systems
+
+- Go microservices
+- gRPC communication
+- event-driven messaging
+- backend orchestration
+
+### Media and streaming
+
+- FFmpeg integration
+- RTP / RTSP / RTMP
+- audio processing pipelines
+
+---
+
+# Main Tech Stack
+
+### Languages
+
+- Go (primary)
+- PHP
+- JavaScript
+- Java
+- Python
+
+### Real-time Communication
+
+- WebRTC
+- RTP
+- ICE
+- TURN
+
+### Backend Communication
+
+- gRPC
+- WebSocket
+- MQTT
+- Protobuf
+
+### Infrastructure
+
+- Docker
+- Linux
+- FFmpeg
+
+---
+
+# Key Projects
+
+## Call Gateway
+
+A production-oriented **real-time call gateway** built with Go.
+
+Features:
+
+- WebRTC signaling
+- session lifecycle management
+- Pion WebRTC integration
+- WebSocket / gRPC communication
+- MQTT event propagation
+- weak network testing support
+
+Architecture role:
+Client / Device
+│
+WebSocket / gRPC
+│
+Call Gateway
+│
+Signaling + Session Control
+│
+WebRTC (Pion)
+---
+
+## GoEasyFfmpeg
+
+A Go-based media processing service.
+
+Supports:
+
+- RTMP
+- RTSP
+- HLS
+- FLV
+- FFmpeg orchestration
+- streaming task control
+
+---
+
+## Iris Admin
+
+A Go-based backend admin framework.
+
+Features:
+
+- authentication
+- admin panel
+- modular backend architecture
+
+---
+
+# Technical Research Notes
+
+I maintain research notes and experiments related to **WebRTC and backend infrastructure**.
+
+## Technical Notes
+
+I maintain technical research notes about **WebRTC infrastructure, backend systems, and real-time communication engineering**.
+
+### WebRTC Networking
+
+- [WebRTC stability in complex LAN environments](https://emphasized-burst-0c5.notion.site/111e8b936fa681519c28c6cde831ff89)  
+  如何在复杂的局域网网络情况下，保证视频电话功能的稳定使用？
+
+- [Testing WebRTC calls in multi-layer LAN environments](https://emphasized-burst-0c5.notion.site/WEBETC-1a0e8b936fa6800e9132fb37eaf54cad)  
+  搭建多级局域网测试 WEBRTC 音视频通话情况
+
+- [Android 14 WebRTC call disconnection analysis with coturn](https://emphasized-burst-0c5.notion.site/Android14-coturn-2fee8b936fa680daba3cc30dc25d782d?pvs=73)  
+  Android14 音视频在配置 coturn 中继服务情况下通话自动断开问题分析
+
+---
+
+### WebRTC Audio Processing
+
+- [Server-side noise suppression using WebRTC + FFmpeg + RNN](https://emphasized-burst-0c5.notion.site/WEBRTC-FFMPEG-RNN-278e8b936fa680778d12ed44d36b58c1)  
+  WEBRTC + FFMPEG + RNN 服务端实现通话背景噪声消除
+
+- [Debugging Android WebRTC audio 3A using AEC_DUMP](https://emphasized-burst-0c5.notion.site/AEC_DUMP-WEBRTC-3A-292e8b936fa68051a79bfbc385d27cfa?pvs=73)  
+  利用 AEC_DUMP 工具调试安卓设备 WebRTC 音频 3A 算法
+
+- [Building and integrating WebRTC audio-processing module](https://emphasized-burst-0c5.notion.site/WEBRTC-audio-processing-29ae8b936fa680069c48cda44bc7fa79)  
+  WebRTC audio-processing 模块移植与编译
+
+- [Noise reduction and echo cancellation techniques for better call quality](https://emphasized-burst-0c5.notion.site/181e8b936fa6806fb421e5bd2b32591e)  
+  如何降噪、消除回声，从而获得更好的通话体验？
+
+---
+
+### Backend Engineering
+
+- [Debugging a Golang production deadlock issue](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)  
+  记一次线上 Golang 并发死锁问题排查
+
+---
+
+### Infrastructure / Experiments
+
+- [Compiling OpenHarmony 5.0.1 WebRTC in Docker on Mac M2](https://emphasized-burst-0c5.notion.site/Mac-M2-Docker-Open-Harmony-5-0-1-WEBRTC-1f9e8b936fa680659708d19287b7b779?pvs=4)  
+  Mac M2 Docker 环境编译 OpenHarmony WebRTC
+
+- [Deploying SeamlessM4T-v2 with Docker](https://emphasized-burst-0c5.notion.site/ebd/255e8b936fa680d48c91f9e042846af0)  
+  Docker 部署 SeamlessM4T-v2 模型
+---
+
+# Contact
+
+- Email
+brendenaudrina6287@gmail.com
+
+- Twitter
+https://twitter.com/rodin990
+
+---
+
+# GitHub Statistics
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowlyg&theme=github)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowlyg&theme=github)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snowlyg&theme=github)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snowlyg&theme=github)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snowlyg&theme=github)
-<!--  [![Ido's github stats](https://github-readme-stats.vercel.app/api?username=snowlyg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+---
 
-<p align="center">Loved the project? Please consider <a href="https://paypal.me/snowlyg?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!
+⭐ If you find my projects useful, feel free to star them.
