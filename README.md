@@ -149,6 +149,20 @@ Features:
 
 ---
 
+## [Selective Translate](https://github.com/snowlyg/translate_chrome_plugin)
+
+A Chrome extension for selective in-page translation.
+
+Features:
+
+- translate selected words and sentences directly on webpages
+- built-in TTS playback with configurable voice styles
+- English word phonetics and dictionary annotations
+- multiple translation provider integration
+- designed for reading technical docs and multilingual content
+
+---
+
 # Technical Research Notes
 
 I maintain research notes and experiments related to **WebRTC and backend infrastructure**.
