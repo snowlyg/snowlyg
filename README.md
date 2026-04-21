@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/neon-rtc-hero.png" alt="Neon RTC infrastructure hero" width="100%" />
+<img src="./assets/neon-rtc-hero.gif" alt="Animated neon RTC infrastructure hero" width="100%" />
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,45:8B5CF6,100:FF2BD6&section=header&text=Rodin&fontColor=FFFFFF&fontSize=46&fontAlignY=36&animation=twinkling&desc=RTC%20Gateway%20Infrastructure%20%C2%B7%20Go%20%C2%B7%20WebRTC%20%C2%B7%20Pion&descAlignY=62&descSize=16" alt="Rodin neon header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:00E5FF,45:8B5CF6,100:FF2BD6&section=header&text=Rodin&fontColor=FFFFFF&fontSize=44&fontAlignY=32&animation=twinkling&desc=RTC%20Gateway%20Infrastructure%20%C2%B7%20Go%20%C2%B7%20WebRTC%20%C2%B7%20Pion&descAlignY=58&descSize=15" alt="Rodin neon header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=1700&pause=450&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=92&lines=AI-era+real-time+communication+infrastructure;RTC+call+gateways+%E2%9A%A1+WebRTC+production+debugging;Weak-network+reliability+%E2%9A%A1+media+pipeline+engineering" alt="AI-era typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=1700&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=145&lines=AI-era+real-time+communication+infrastructure;RTC+call+gateways+%E2%9A%A1+WebRTC+production+debugging;Weak-network+reliability+%E2%9A%A1+media+pipeline+engineering" alt="AI-era typing headline" />
 
 <br />
 <br />
