@@ -1,0 +1,123 @@
+<svg width="1536" height="520" viewBox="0 0 1536 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated neon RTC infrastructure hero</title>
+  <desc id="desc">Neon real-time communication network with animated signal lines, audio waveforms, and glowing nodes.</desc>
+  <defs>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#FF2BD6" stop-opacity="0.9"/>
+      <stop offset="35%" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cyanMagenta" x1="0" y1="0" x2="1536" y2="0">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="45%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#FF2BD6"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="hardGlow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.1  0 1 0 0 0.8  0 0 1 0 1  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" stroke="#1F2A44" stroke-opacity="0.35" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="520" fill="#050816"/>
+  <rect width="1536" height="520" fill="url(#grid)" opacity="0.55"/>
+  <rect x="0" y="0" width="1536" height="520" fill="url(#coreGlow)" opacity="0.75">
+    <animate attributeName="opacity" values="0.45;0.85;0.45" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g opacity="0.38">
+    <rect x="70" y="170" width="90" height="230" rx="8" fill="#0B1224" stroke="#00E5FF" stroke-opacity="0.22"/>
+    <rect x="1370" y="135" width="88" height="260" rx="8" fill="#0B1224" stroke="#FF2BD6" stroke-opacity="0.24"/>
+    <rect x="1180" y="205" width="105" height="170" rx="8" fill="#0B1224" stroke="#8B5CF6" stroke-opacity="0.2"/>
+    <rect x="245" y="220" width="110" height="150" rx="8" fill="#0B1224" stroke="#00E5FF" stroke-opacity="0.18"/>
+  </g>
+
+  <g filter="url(#softGlow)" opacity="0.96">
+    <path pathLength="1000" d="M20 335C210 270 330 355 505 270C650 200 765 330 910 235C1095 115 1250 250 1518 150" stroke="#00E5FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="95 210">
+      <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path pathLength="1000" d="M-20 170C190 105 330 165 520 145C750 122 825 285 1030 245C1235 205 1325 80 1565 92" stroke="#FF2BD6" stroke-width="3" stroke-linecap="round" stroke-dasharray="120 220">
+      <animate attributeName="stroke-dashoffset" from="0" to="-1000" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <path pathLength="1000" d="M0 430C235 365 380 410 575 382C790 350 910 426 1105 348C1295 272 1370 345 1536 260" stroke="#8B5CF6" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 180">
+      <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g transform="translate(0 250)" filter="url(#softGlow)">
+    <path d="M0 0H135L146 -36L158 35L170 -24L182 27L194 -44L207 42L219 -18L231 0H475L487 -22L499 18L512 -30L525 30L538 -16L550 0H985L997 -28L1009 32L1022 -48L1036 50L1049 -26L1061 0H1536" stroke="url(#cyanMagenta)" stroke-width="4" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="translate" values="-80 0;80 0;-80 0" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g stroke="url(#cyanMagenta)" stroke-width="2" opacity="0.72" filter="url(#softGlow)">
+    <path d="M610 195L705 142L785 220L873 160L955 246L1038 195"/>
+    <path d="M610 195L650 316L760 275L873 160L900 340L1038 195"/>
+    <path d="M705 142L760 275L955 246L900 340"/>
+  </g>
+
+  <g filter="url(#hardGlow)">
+    <circle cx="610" cy="195" r="8" fill="#00E5FF">
+      <animate attributeName="r" values="6;13;6" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="705" cy="142" r="9" fill="#00E5FF">
+      <animate attributeName="r" values="7;14;7" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="785" cy="220" r="10" fill="#FF2BD6">
+      <animate attributeName="r" values="8;17;8" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="873" cy="160" r="8" fill="#FF2BD6">
+      <animate attributeName="r" values="6;13;6" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="955" cy="246" r="11" fill="#FF2BD6">
+      <animate attributeName="r" values="8;18;8" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1038" cy="195" r="9" fill="#8B5CF6">
+      <animate attributeName="r" values="7;15;7" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="316" r="8" fill="#00E5FF">
+      <animate attributeName="r" values="6;12;6" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="275" r="9" fill="#FF2BD6">
+      <animate attributeName="r" values="7;14;7" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="340" r="10" fill="#8B5CF6">
+      <animate attributeName="r" values="7;16;7" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.7">
+    <circle cx="230" cy="125" r="2" fill="#00E5FF">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="365" cy="330" r="2" fill="#FF2BD6">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1170" cy="142" r="2" fill="#8B5CF6">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1318" cy="410" r="2" fill="#00E5FF">
+      <animate attributeName="opacity" values="1;0;1" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#softGlow)">
+    <text x="768" y="405" fill="#FFFFFF" font-size="34" font-weight="800" letter-spacing="4">RTC × AI SIGNAL GRID</text>
+    <text x="768" y="438" fill="#00E5FF" font-size="16" font-weight="700" letter-spacing="3">GO · WEBRTC · PION · REAL-TIME MEDIA INFRASTRUCTURE</text>
+    <animate attributeName="opacity" values="0.78;1;0.78" dur="3s" repeatCount="indefinite"/>
+  </g>
+</svg>

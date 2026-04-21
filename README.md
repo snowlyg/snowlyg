@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/neon-rtc-hero.gif" alt="Animated neon RTC infrastructure hero" width="100%" />
+<img src="./assets/neon-rtc-hero.svg" alt="Animated neon RTC infrastructure hero" width="100%" />
 
 <br />
 <br />
