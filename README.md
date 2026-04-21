@@ -1,243 +1,189 @@
 <div align="center">
 
-<img width="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdoaTh3c2oxOTlxNnRnNWxjb3Q4cmh1cnZnbHpnbzhnOHptNnc5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img src="./assets/neon-rtc-hero.png" alt="Neon RTC infrastructure hero" width="100%" />
 
-# Rodin
+<br />
+<br />
 
-Real-time Communication Infrastructure Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,45:8B5CF6,100:FF2BD6&section=header&text=Rodin&fontColor=FFFFFF&fontSize=46&fontAlignY=36&animation=twinkling&desc=RTC%20Gateway%20Infrastructure%20%C2%B7%20Go%20%C2%B7%20WebRTC%20%C2%B7%20Pion&descAlignY=62&descSize=16" alt="Rodin neon header" width="100%" />
 
-Building RTC systems with **Go + WebRTC**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=1700&pause=450&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=92&lines=AI-era+real-time+communication+infrastructure;RTC+call+gateways+%E2%9A%A1+WebRTC+production+debugging;Weak-network+reliability+%E2%9A%A1+media+pipeline+engineering" alt="AI-era typing headline" />
+
+<br />
+<br />
+
+<a href="https://github.com/snowlyg">
+  <img src="https://img.shields.io/badge/FOLLOW%20MY%20WORK-FF2BD6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Follow my work" />
+</a>
+<a href="#research-drops">
+  <img src="https://img.shields.io/badge/READ%20WEBRTC%20NOTES-00E5FF?style=for-the-badge&logo=notion&logoColor=111827&labelColor=111827" alt="Read WebRTC notes" />
+</a>
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00E5FF" alt="Go" />
+<img src="https://img.shields.io/badge/WebRTC-111827?style=flat-square&logo=webrtc&logoColor=FFFFFF" alt="WebRTC" />
+<img src="https://img.shields.io/badge/Pion-111827?style=flat-square&logo=go&logoColor=00E5FF" alt="Pion" />
+<img src="https://img.shields.io/badge/gRPC-111827?style=flat-square&logo=googlecloud&logoColor=8B5CF6" alt="gRPC" />
+<img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="WebSocket" />
+<img src="https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=mqtt&logoColor=FF2BD6" alt="MQTT" />
+<img src="https://img.shields.io/badge/FFmpeg-111827?style=flat-square&logo=ffmpeg&logoColor=22C55E" alt="FFmpeg" />
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FACC15" alt="Linux" />
 
 </div>
 
----
-
-# About Me
-
-I am a backend engineer specializing in **real-time communication infrastructure**.
-
-My work focuses on designing and building systems such as:
-
-- WebRTC signaling services
-- real-time call gateways
-- session orchestration layers
-- distributed backend services
-- streaming and media systems
-
-I have extensive experience building **Go-based RTC systems integrating WebRTC, gRPC, WebSocket, and MQTT**.
-
-I am particularly interested in solving problems around:
-
-- weak network communication
-- WebRTC audio processing
-- real-time system architecture
-- backend infrastructure for RTC platforms
-
----
-
-# Core Technical Focus
-
-### Real-time communication systems
-
-Designing backend infrastructure for real-time video/audio communication.
-
-### WebRTC infrastructure
-
-- Pion WebRTC integration
-- ICE / STUN / TURN
-- signaling architecture
-- session lifecycle management
-
-### Distributed backend systems
-
-- Go microservices
-- gRPC communication
-- event-driven messaging
-- backend orchestration
-
-### Media and streaming
-
-- FFmpeg integration
-- RTP / RTSP / RTMP
-- audio processing pipelines
-
----
-
-# Main Tech Stack
-
-### Languages
-
-- Go (primary)
-- PHP
-- JavaScript
-- Java
-- Python
-
-### Real-time Communication
-
-- WebRTC
-- RTP
-- ICE
-- TURN
-
-### Backend Communication
-
-- gRPC
-- WebSocket
-- MQTT
-- Protobuf
-
-### Infrastructure
-
-- Docker
-- Linux
-- FFmpeg
-
----
-
-# Key Projects
-
-## Call Gateway
-
-A production-oriented **real-time call gateway** built with Go.
-
-Features:
-
-- WebRTC signaling
-- session lifecycle management
-- Pion WebRTC integration
-- WebSocket / gRPC communication
-- MQTT event propagation
-- weak network testing support
-
-Architecture role:
-Client / Device
-│
-WebSocket / gRPC
-│
-Call Gateway
-│
-Signaling + Session Control
-│
-WebRTC (Pion)
----
-
-## GoEasyFfmpeg
-
-A Go-based media processing service.
-
-Supports:
-
-- RTMP
-- RTSP
-- HLS
-- FLV
-- FFmpeg orchestration
-- streaming task control
-
----
-
-## Iris Admin
-
-A Go-based backend admin framework.
-
-Features:
-
-- authentication
-- admin panel
-- modular backend architecture
-
----
-
-## [Selective Translate](https://github.com/snowlyg/translate_chrome_plugin)
-
-A Chrome extension for selective in-page translation.
-
-Features:
-
-- translate selected words and sentences directly on webpages
-- built-in TTS playback with configurable voice styles
-- English word phonetics and dictionary annotations
-- multiple translation provider integration
-- designed for reading technical docs and multilingual content
-
----
-
-# Technical Research Notes
-
-I maintain research notes and experiments related to **WebRTC and backend infrastructure**.
-
-## Technical Notes
-
-I maintain technical research notes about **WebRTC infrastructure, backend systems, and real-time communication engineering**.
-
-### WebRTC Networking
-
-- [WebRTC stability in complex LAN environments](https://emphasized-burst-0c5.notion.site/111e8b936fa681519c28c6cde831ff89)  
-  如何在复杂的局域网网络情况下，保证视频电话功能的稳定使用？
-
-- [Testing WebRTC calls in multi-layer LAN environments](https://emphasized-burst-0c5.notion.site/WEBETC-1a0e8b936fa6800e9132fb37eaf54cad)  
-  搭建多级局域网测试 WEBRTC 音视频通话情况
-
-- [Android 14 WebRTC call disconnection analysis with coturn](https://emphasized-burst-0c5.notion.site/Android14-coturn-2fee8b936fa680daba3cc30dc25d782d?pvs=73)  
-  Android14 音视频在配置 coturn 中继服务情况下通话自动断开问题分析
-
----
-
-### WebRTC Audio Processing
-
-- [Server-side noise suppression using WebRTC + FFmpeg + RNN](https://emphasized-burst-0c5.notion.site/WEBRTC-FFMPEG-RNN-278e8b936fa680778d12ed44d36b58c1)  
-  WEBRTC + FFMPEG + RNN 服务端实现通话背景噪声消除
-
-- [Debugging Android WebRTC audio 3A using AEC_DUMP](https://emphasized-burst-0c5.notion.site/AEC_DUMP-WEBRTC-3A-292e8b936fa68051a79bfbc385d27cfa?pvs=73)  
-  利用 AEC_DUMP 工具调试安卓设备 WebRTC 音频 3A 算法
-
-- [Building and integrating WebRTC audio-processing module](https://emphasized-burst-0c5.notion.site/WEBRTC-audio-processing-29ae8b936fa680069c48cda44bc7fa79)  
-  WebRTC audio-processing 模块移植与编译
-
-- [Noise reduction and echo cancellation techniques for better call quality](https://emphasized-burst-0c5.notion.site/181e8b936fa6806fb421e5bd2b32591e)  
-  如何降噪、消除回声，从而获得更好的通话体验？
-
----
-
-### Backend Engineering
-
-- [Debugging a Golang production deadlock issue](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)  
-  记一次线上 Golang 并发死锁问题排查
-
----
-
-### Infrastructure / Experiments
-
-- [Compiling OpenHarmony 5.0.1 WebRTC in Docker on Mac M2](https://emphasized-burst-0c5.notion.site/Mac-M2-Docker-Open-Harmony-5-0-1-WEBRTC-1f9e8b936fa680659708d19287b7b779?pvs=4)  
-  Mac M2 Docker 环境编译 OpenHarmony WebRTC
-
-- [Deploying SeamlessM4T-v2 with Docker](https://emphasized-burst-0c5.notion.site/ebd/255e8b936fa680d48c91f9e042846af0)  
-  Docker 部署 SeamlessM4T-v2 模型
----
-
-# Contact
-
-- Email
-brendenaudrina6287@gmail.com
-
-- Twitter
-https://twitter.com/rodin990
-
----
-
-# GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowlyg&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowlyg&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snowlyg&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snowlyg&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snowlyg&theme=github)
-
----
-
-⭐ If you find my projects useful, feel free to star them.
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=88&color=0:050816,35:111827,70:312E81,100:831843&text=LIVE%20RTC%20%C3%97%20AI%20SIGNAL%20GRID&fontColor=FFFFFF&fontSize=24&animation=blinking&desc=low%20latency%20%C2%B7%20weak%20network%20%C2%B7%20audio%20intelligence%20%C2%B7%20go%20backend&descSize=12&descAlignY=72" alt="Live RTC AI signal grid" width="100%" />
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>NOW BUILDING</h3>
+      <strong>RTC Call Gateway</strong>
+      <p>Go + Pion WebRTC gateway infrastructure for real-time audio/video and AI-ready media streams.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>CORE FOCUS</h3>
+      <strong>Weak-Network Reliability</strong>
+      <p>Signaling, session lifecycle, coturn relay behavior and long-running call stability under unstable networks.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>SYSTEM LAYER</h3>
+      <strong>Media + Backend</strong>
+      <p>FFmpeg workflows, WebRTC audio debugging, gRPC, WebSocket, MQTT and real-time event pipelines.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:8B5CF6,100:FF2BD6" alt="neon divider" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1300&pause=350&color=FF2BD6&center=true&vCenter=true&width=980&lines=%3E+signal.offer+%E2%86%92+session.route+%E2%86%92+webrtc.connect+%E2%86%92+media.flow;%3E+detect.jitter+%E2%86%92+relay.turn+%E2%86%92+recover.call+%E2%86%92+keep.alive;%3E+audio.debug+%E2%86%92+aec.dump+%E2%86%92+ffmpeg.pipeline+%E2%86%92+clean.signal" alt="Animated RTC pipeline" />
+
+</div>
+
+## CORE POWERS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WebRTC Production Debugging</h3>
+      <p>Weak-network behavior, coturn relay issues, Android WebRTC stability, ICE/STUN/TURN paths and call quality problems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>RTC Gateway Architecture</h3>
+      <p>Signaling services, session orchestration, Pion WebRTC integration, gRPC/WebSocket/MQTT event flow and lifecycle control.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI-Ready Audio / Media Engineering</h3>
+      <p>WebRTC audio 3A, AEC dump analysis, FFmpeg pipelines, RTP/RTSP/RTMP/HLS workflows and audio processing foundations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Go Backend Stability</h3>
+      <p>Concurrent services, production deadlock analysis, distributed backend coordination and infrastructure reliability.</p>
+    </td>
+  </tr>
+</table>
+
+## FEATURED WORK
+
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <h3>Call Gateway</h3>
+      <p>Production-oriented RTC gateway work for signaling, session orchestration, Pion WebRTC integration and weak-network testing.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>GoEasyFfmpeg</h3>
+      <p>Go-based media processing service for FFmpeg orchestration, streaming task control and RTMP/RTSP/HLS/FLV workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>WebRTC Research Notes</h3>
+      <p>Practical notes from WebRTC networking, Android call stability, coturn, audio debugging and production incident analysis.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:111827,50:312E81,100:831843&text=RESEARCH%20DROPS&fontColor=FFFFFF&fontSize=26&animation=fadeIn" alt="Research drops" width="100%" />
+
+</div>
+
+## RESEARCH DROPS
+
+- [WebRTC stability in complex LAN environments](https://emphasized-burst-0c5.notion.site/111e8b936fa681519c28c6cde831ff89)
+- [Android 14 WebRTC call disconnection analysis with coturn](https://emphasized-burst-0c5.notion.site/Android14-coturn-2fee8b936fa680daba3cc30dc25d782d?pvs=73)
+- [Debugging Android WebRTC audio 3A using AEC_DUMP](https://emphasized-burst-0c5.notion.site/AEC_DUMP-WEBRTC-3A-292e8b936fa68051a79bfbc385d27cfa?pvs=73)
+- [Debugging a Golang production deadlock issue](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=72&text=NEON%20SIGNAL%20BOARD&fontColor=00E5FF&fontSize=28&animation=twinkling&desc=live%20github%20data%20%C2%B7%20rtc%20focus%20%C2%B7%20ai-era%20systems&descSize=13&descAlignY=78" alt="Neon signal board" width="100%" />
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050816" alt="Status online" />
+      <p><strong>RTC gateway infrastructure</strong></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnowlyg&color=FF2BD6&labelColor=050816&logo=github" alt="GitHub followers" />
+      <p><strong>follow the signal</strong></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnowlyg&color=8B5CF6&labelColor=050816&logo=github" alt="Public repositories" />
+      <p><strong>shipping experiments</strong></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/github/stars/snowlyg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STARS&color=00E5FF&labelColor=050816&logo=github" alt="GitHub stars" />
+      <p><strong>open-source gravity</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/NOW-BUILDING-FF2BD6?style=for-the-badge&labelColor=050816" alt="Now building" />
+      <p>RTC call gateways</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/FOCUS-WEBRTC-00E5FF?style=for-the-badge&labelColor=050816" alt="WebRTC focus" />
+      <p>production debugging</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/MEDIA-AI--READY-8B5CF6?style=for-the-badge&labelColor=050816" alt="AI-ready media" />
+      <p>audio + FFmpeg pipelines</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/STACK-GO-FF2BD6?style=for-the-badge&labelColor=050816&logo=go&logoColor=00E5FF" alt="Go stack" />
+      <p>Pion · gRPC · MQTT</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF2BD6,50:8B5CF6,100:00E5FF&section=footer&animation=twinkling" alt="Neon footer wave" width="100%" />
+
+<strong>Open to WebRTC, RTC infrastructure and Go backend conversations.</strong>
+
+<br />
+<br />
+
+Email: <a href="mailto:brendenaudrina6287@gmail.com">brendenaudrina6287@gmail.com</a> · Twitter: <a href="https://twitter.com/rodin990">@rodin990</a>
+
+</div>
