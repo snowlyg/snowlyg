@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/neon-rtc-hero.svg" alt="Animated neon RTC infrastructure hero" width="100%" />
+<img src="./assets/hero-candidates/neon-hero-d.png" alt="Neon AI RTC control surface hero" width="100%" />
 
 <br />
 <br />
@@ -136,44 +136,48 @@
 
 </div>
 
-<table>
+<div align="center">
+
+<table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050816" alt="Status online" />
-      <p><strong>RTC gateway infrastructure</strong></p>
+      <p><strong>RTC gateway</strong></p>
     </td>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnowlyg&color=FF2BD6&labelColor=050816&logo=github" alt="GitHub followers" />
-      <p><strong>follow the signal</strong></p>
+      <p><strong>followers</strong></p>
     </td>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnowlyg&color=8B5CF6&labelColor=050816&logo=github" alt="Public repositories" />
-      <p><strong>shipping experiments</strong></p>
+      <p><strong>repos</strong></p>
     </td>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/github/stars/snowlyg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STARS&color=00E5FF&labelColor=050816&logo=github" alt="GitHub stars" />
-      <p><strong>open-source gravity</strong></p>
+      <p><strong>stars</strong></p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/badge/NOW-BUILDING-FF2BD6?style=for-the-badge&labelColor=050816" alt="Now building" />
-      <p>RTC call gateways</p>
+      <p><strong>call gateways</strong></p>
     </td>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/badge/FOCUS-WEBRTC-00E5FF?style=for-the-badge&labelColor=050816" alt="WebRTC focus" />
-      <p>production debugging</p>
+      <p><strong>debugging</strong></p>
     </td>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/badge/MEDIA-AI--READY-8B5CF6?style=for-the-badge&labelColor=050816" alt="AI-ready media" />
-      <p>audio + FFmpeg pipelines</p>
+      <p><strong>audio / FFmpeg</strong></p>
     </td>
-    <td align="center" width="25%">
+    <td align="left" valign="top" width="25%">
       <img src="https://img.shields.io/badge/STACK-GO-FF2BD6?style=for-the-badge&labelColor=050816&logo=go&logoColor=00E5FF" alt="Go stack" />
-      <p>Pion · gRPC · MQTT</p>
+      <p><strong>Pion · gRPC · MQTT</strong></p>
     </td>
   </tr>
 </table>
+
+</div>
 
 <div align="center">
 
