@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-candidates/neon-hero-d.png" alt="Neon AI RTC control surface hero" width="100%" />
+<img src="./assets/hero-candidates/neon-hero-d-orbit-core.svg" alt="Animated neon AI RTC core orbit hero" width="100%" />
 
 <br />
 <br />
