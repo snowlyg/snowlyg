@@ -1,10 +1,5 @@
 <div align="center">
 
-<img src="./assets/hero-candidates/neon-hero-d-orbit-core.svg" alt="Animated neon AI RTC core orbit hero" width="100%" />
-
-<br />
-<br />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:00E5FF,45:8B5CF6,100:FF2BD6&section=header&text=Rodin&fontColor=FFFFFF&fontSize=44&fontAlignY=32&animation=twinkling&desc=RTC%20Gateway%20Infrastructure%20%C2%B7%20Go%20%C2%B7%20WebRTC%20%C2%B7%20Pion&descAlignY=58&descSize=15" alt="Rodin neon header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=1700&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=145&lines=AI-era+real-time+communication+infrastructure;RTC+call+gateways+%E2%9A%A1+WebRTC+production+debugging;Weak-network+reliability+%E2%9A%A1+media+pipeline+engineering" alt="AI-era typing headline" />
@@ -30,6 +25,11 @@
 <img src="https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=mqtt&logoColor=FF2BD6" alt="MQTT" />
 <img src="https://img.shields.io/badge/FFmpeg-111827?style=flat-square&logo=ffmpeg&logoColor=22C55E" alt="FFmpeg" />
 <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FACC15" alt="Linux" />
+
+<br />
+<br />
+
+<img src="./assets/hero-candidates/neon-hero-d-orbit-core.svg" alt="Animated neon AI RTC core orbit hero" width="100%" />
 
 </div>
 
