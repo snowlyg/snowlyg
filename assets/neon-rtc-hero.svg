@@ -116,8 +116,8 @@
   </g>
 
   <g text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#softGlow)">
-    <text x="768" y="405" fill="#FFFFFF" font-size="34" font-weight="800" letter-spacing="4">RTC × AI SIGNAL GRID</text>
-    <text x="768" y="438" fill="#00E5FF" font-size="16" font-weight="700" letter-spacing="3">GO · WEBRTC · PION · REAL-TIME MEDIA INFRASTRUCTURE</text>
+    <text x="768" y="405" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="800" letter-spacing="4">REAL-TIME SIGNAL GRID</text>
+    <text x="768" y="438" text-anchor="middle" fill="#00E5FF" font-size="16" font-weight="700" letter-spacing="3">GO · WEBRTC · PION · MEDIA INFRASTRUCTURE</text>
     <animate attributeName="opacity" values="0.78;1;0.78" dur="3s" repeatCount="indefinite"/>
   </g>
 </svg>

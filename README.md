@@ -1,223 +1,139 @@
-<div align="center">
+<p align="center">
+  <a href="#english"><strong><kbd>English</kbd></strong></a>
+  <a href="#zh-cn"><kbd>简体中文</kbd></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:00E5FF,45:8B5CF6,100:FF2BD6&section=header&text=Rodin&fontColor=FFFFFF&fontSize=44&fontAlignY=32&animation=twinkling&desc=RTC%20Gateway%20Infrastructure%20%C2%B7%20Go%20%C2%B7%20WebRTC%20%C2%B7%20Pion&descAlignY=58&descSize=15" alt="Rodin neon header" width="100%" />
+<a id="english"></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=1700&pause=500&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=145&lines=Go+Backend+Engineer+for+RTC+Gateway+Infrastructure;WebRTC+production+debugging+%E2%9A%A1+weak-network+reliability;AI-ready+media+pipelines+%E2%9A%A1+Pion+%E2%9A%A1+FFmpeg" alt="Go backend engineer focused on RTC gateway infrastructure" />
+<h1 align="center">Hi, I'm Rodin Luo</h1>
 
-<br />
-<br />
+<p align="center"><strong>Go Backend / WebRTC Engineer</strong></p>
 
-<a href="mailto:brendenaudrina6287@gmail.com">
-  <img src="https://img.shields.io/badge/HIRE%20OR%20COLLABORATE-FF2BD6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Hire or collaborate by email" />
-</a>
-<a href="#featured-work">
-  <img src="https://img.shields.io/badge/VIEW%20FEATURED%20WORK-00E5FF?style=for-the-badge&logo=github&logoColor=111827&labelColor=111827" alt="View featured work" />
-</a>
-<a href="#research-drops">
-  <img src="https://img.shields.io/badge/READ%20WEBRTC%20NOTES-8B5CF6?style=for-the-badge&logo=notion&logoColor=white&labelColor=111827" alt="Read WebRTC notes" />
-</a>
+<p align="center">
+I build and debug backend systems and real-time media applications, with a focus on signaling, call reliability, Android and OpenHarmony integration, and production troubleshooting.
+</p>
 
-<br />
-<br />
+<p align="center">
+  <a href="https://www.lodan.me/">Portfolio</a> ·
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#engineering-notes">Engineering notes</a> ·
+  <a href="https://www.lodan.me/contact/">Contact</a>
+</p>
 
-<img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00E5FF" alt="Go" />
-<img src="https://img.shields.io/badge/WebRTC-111827?style=flat-square&logo=webrtc&logoColor=FFFFFF" alt="WebRTC" />
-<img src="https://img.shields.io/badge/Pion-111827?style=flat-square&logo=go&logoColor=00E5FF" alt="Pion" />
-<img src="https://img.shields.io/badge/gRPC-111827?style=flat-square&logo=googlecloud&logoColor=8B5CF6" alt="gRPC" />
-<img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square&logo=socketdotio&logoColor=FFFFFF" alt="WebSocket" />
-<img src="https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=mqtt&logoColor=FF2BD6" alt="MQTT" />
-<img src="https://img.shields.io/badge/FFmpeg-111827?style=flat-square&logo=ffmpeg&logoColor=22C55E" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FACC15" alt="Linux" />
+<img src="./assets/neon-rtc-hero.svg" alt="Neon visualization of a real-time communication network" width="100%" />
 
-<br />
-<br />
+## What I Work On
 
-<img src="./assets/hero-candidates/neon-hero-d-orbit-core.svg" alt="Animated neon AI RTC core orbit hero" width="100%" />
+- **RTC gateways and call reliability** — signaling, session lifecycle, ICE/STUN/TURN, coturn relay paths, and weak-network troubleshooting.
+- **Production Go backends** — concurrent services, gRPC, WebSocket and MQTT event flows, deadlock analysis, and lifecycle reliability.
+- **Audio and media debugging** — Pion WebRTC, FFmpeg workflows, RTP-based media, WebRTC audio 3A, and AEC dump analysis.
 
-</div>
+## Selected Work
 
-<br />
+### [ohscrcpy](https://www.lodan.me/products/ohscrcpy/)
 
-<div align="center">
+A Windows screen-mirroring and remote-control tool for OpenHarmony and Android devices. It supports ADB/HDC device routing, single- and multi-device workflows, local-network connections, and offline Windows distribution.
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=88&color=0:050816,35:111827,70:312E81,100:831843&text=LIVE%20RTC%20%C3%97%20AI%20SIGNAL%20GRID&fontColor=FFFFFF&fontSize=24&animation=blinking&desc=low%20latency%20%C2%B7%20weak%20network%20%C2%B7%20audio%20intelligence%20%C2%B7%20go%20backend&descSize=12&descAlignY=72" alt="Live RTC AI signal grid" width="100%" />
+[Product page](https://www.lodan.me/products/ohscrcpy/) · [GitHub releases](https://github.com/snowlyg/ohscrcpy-releases)
 
-</div>
+### [GoEasyFfmpeg](https://github.com/snowlyg/GoEasyFfmpeg)
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>ROLE TARGET</h3>
-      <strong>Go Backend Engineer</strong>
-      <p>Focused on RTC gateway infrastructure, real-time media systems and production reliability.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>CORE DOMAIN</h3>
-      <strong>WebRTC Reliability</strong>
-      <p>Signaling, session lifecycle, ICE/STUN/TURN, coturn relay behavior and weak-network recovery.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>MEDIA LAYER</h3>
-      <strong>AI-Ready Audio / Video</strong>
-      <p>Pion WebRTC, FFmpeg workflows, AEC dump analysis and real-time event pipelines.</p>
-    </td>
-  </tr>
-</table>
+A Go service for managing FFmpeg streaming processes and RTMP, RTSP, HLS, and FLV workflows. The project extends earlier EasyDarwin work and documents implementation tradeoffs and known limitations.
 
-<div align="center">
+[Source code](https://github.com/snowlyg/GoEasyFfmpeg)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:8B5CF6,100:FF2BD6" alt="neon divider" width="100%" />
+### Production RTC Reliability
 
-</div>
+Most of my production RTC gateway work is private. The engineering notes below document the parts I can share: Android and OpenHarmony call behavior, coturn and ICE paths, audio 3A, playback latency, and production failure analysis.
 
-<div align="center">
+## Engineering Notes
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1300&pause=350&color=FF2BD6&center=true&vCenter=true&width=980&lines=%3E+signal.offer+%E2%86%92+session.route+%E2%86%92+webrtc.connect+%E2%86%92+media.flow;%3E+detect.jitter+%E2%86%92+relay.turn+%E2%86%92+recover.call+%E2%86%92+keep.alive;%3E+audio.debug+%E2%86%92+aec.dump+%E2%86%92+ffmpeg.pipeline+%E2%86%92+clean.signal" alt="Animated RTC pipeline" />
+- **2026-06-14** — [Debugging Android WebRTC Audio 3A with AEC_DUMP and Audacity](https://www.lodan.me/posts/android-webrtc-aecdump-audio-3a-debugging/)
+- **2026-06-09** — [Debugging WebRTC Audio Playback Latency on OpenHarmony 5.0](https://www.lodan.me/posts/openharmony-arkweb-webrtc-audio-playback-latency/)
+- **2026-06-06** — [WebRTC Echo and Noise Optimization on Android 14 Bedside Devices](https://www.lodan.me/posts/android14-bedside-webrtc-echo-noise-optimization/)
 
-</div>
+[Read all engineering posts](https://www.lodan.me/posts/)
 
-## What I Build
+## Toolkit
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>RTC Gateway Infrastructure</h3>
-      <p>Go services for signaling, session orchestration, Pion WebRTC integration, call lifecycle control and real-time audio/video routing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Weak-Network Reliability</h3>
-      <p>Debugging unstable networks, Android call disconnects, coturn relay behavior, ICE candidate paths and long-running call stability.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI-Ready Media Pipelines</h3>
-      <p>FFmpeg orchestration, RTP/RTSP/RTMP/HLS workflows, WebRTC audio 3A, AEC dump analysis and clean audio pipeline foundations.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Production Go Backend</h3>
-      <p>Concurrent services, gRPC/WebSocket/MQTT event flows, production deadlock analysis and reliability work under real traffic.</p>
-    </td>
-  </tr>
-</table>
+- **Backend:** Go, gRPC, WebSocket, MQTT, MySQL, Redis
+- **RTC and media:** WebRTC, Pion, coturn, ICE/STUN/TURN, FFmpeg, RTP/RTSP/RTMP/HLS
+- **Platforms:** Android, OpenHarmony, Linux, Docker
 
-## Problems I Solve
+## Contact
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>Call drops</strong>
-      <p>Analyze Android WebRTC disconnects, coturn relay behavior and weak-network recovery paths.</p>
-    </td>
-    <td width="25%" valign="top">
-      <strong>Bad media paths</strong>
-      <p>Trace ICE/STUN/TURN decisions, relay fallback, jitter symptoms and session state transitions.</p>
-    </td>
-    <td width="25%" valign="top">
-      <strong>Audio quality bugs</strong>
-      <p>Use AEC_DUMP and WebRTC 3A knowledge to investigate echo, noise and capture/playback issues.</p>
-    </td>
-    <td width="25%" valign="top">
-      <strong>Backend stalls</strong>
-      <p>Investigate Go deadlocks, goroutine blocking, lifecycle leaks and service coordination failures.</p>
-    </td>
-  </tr>
-</table>
+I'm open to Go backend, RTC infrastructure, and real-time media roles or technical collaboration.
 
-## Featured Work
+[Portfolio](https://www.lodan.me/) · [Contact](https://www.lodan.me/contact/) · [X / Twitter](https://twitter.com/rodin990)
 
-<table>
-  <tr>
-    <td width="34%" valign="top">
-      <h3><a href="https://emphasized-burst-0c5.notion.site/Android14-coturn-2fee8b936fa680daba3cc30dc25d782d?pvs=73">Call Gateway Reliability</a></h3>
-      <p>Production-oriented RTC gateway work around signaling, session orchestration, coturn relay behavior, WebRTC call stability and weak-network testing.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/snowlyg/GoEasyFfmpeg">GoEasyFfmpeg</a></h3>
-      <p>Go-based media processing service for FFmpeg orchestration, streaming task control and RTMP/RTSP/HLS/FLV workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="#research-drops">WebRTC Research Notes</a></h3>
-      <p>Practical incident notes from WebRTC networking, Android call stability, coturn, audio debugging and Go production reliability.</p>
-    </td>
-  </tr>
-</table>
+---
 
-<div align="center">
+<a id="zh-cn"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:111827,50:312E81,100:831843&text=RESEARCH%20DROPS&fontColor=FFFFFF&fontSize=26&animation=fadeIn" alt="Research drops" width="100%" />
+<p align="center">
+  <a href="#english"><kbd>English</kbd></a>
+  <strong><kbd>简体中文</kbd></strong>
+</p>
 
-</div>
+<h1 align="center">你好，我是 Rodin Luo</h1>
 
-## Research Drops
+<p align="center"><strong>Go 后端 / WebRTC 工程师</strong></p>
 
-- [WebRTC stability in complex LAN environments](https://emphasized-burst-0c5.notion.site/111e8b936fa681519c28c6cde831ff89)
-- [Android 14 WebRTC call disconnection analysis with coturn](https://emphasized-burst-0c5.notion.site/Android14-coturn-2fee8b936fa680daba3cc30dc25d782d?pvs=73)
-- [Debugging Android WebRTC audio 3A using AEC_DUMP](https://emphasized-burst-0c5.notion.site/AEC_DUMP-WEBRTC-3A-292e8b936fa68051a79bfbc385d27cfa?pvs=73)
-- [Debugging a Golang production deadlock issue](https://emphasized-burst-0c5.notion.site/Golang-1d3e8b936fa6809eb9b0e777dcf7e435)
+<p align="center">
+我负责构建和排查后端系统与实时音视频应用，重点关注信令、通话可靠性、Android 与 OpenHarmony 集成，以及生产环境故障诊断。
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.lodan.me/zh-cn/">个人主页</a> ·
+  <a href="#zh-selected-work">代表工作</a> ·
+  <a href="#zh-engineering-notes">技术文章</a> ·
+  <a href="https://www.lodan.me/zh-cn/contact/">联系方式</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=72&text=NEON%20SIGNAL%20BOARD&fontColor=00E5FF&fontSize=28&animation=twinkling&desc=live%20github%20data%20%C2%B7%20rtc%20focus%20%C2%B7%20ai-era%20systems&descSize=13&descAlignY=78" alt="Neon signal board" width="100%" />
+## 专注方向
 
-</div>
+- **RTC 网关与通话可靠性** — 信令、会话生命周期、ICE/STUN/TURN、coturn 中继路径及弱网排障。
+- **生产级 Go 后端** — 并发服务、gRPC、WebSocket 与 MQTT 事件流、死锁分析及生命周期可靠性。
+- **音频与媒体问题排查** — Pion WebRTC、FFmpeg 工作流、基于 RTP 的媒体处理、WebRTC 音频 3A 及 AEC dump 分析。
 
-<div align="center">
+<a id="zh-selected-work"></a>
 
-<table align="center">
-  <tr>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20ROLES-00E5FF?style=for-the-badge&labelColor=050816" alt="Open to roles" />
-      <p><strong>RTC / WebRTC</strong></p>
-    </td>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnowlyg&color=FF2BD6&labelColor=050816&logo=github" alt="GitHub followers" />
-      <p><strong>followers</strong></p>
-    </td>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsnowlyg&color=8B5CF6&labelColor=050816&logo=github" alt="Public repositories" />
-      <p><strong>repos</strong></p>
-    </td>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/github/stars/snowlyg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STARS&color=00E5FF&labelColor=050816&logo=github" alt="GitHub stars" />
-      <p><strong>stars</strong></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/NOW-BUILDING-FF2BD6?style=for-the-badge&labelColor=050816" alt="Now building" />
-      <p><strong>call gateways</strong></p>
-    </td>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/FOCUS-WEBRTC-00E5FF?style=for-the-badge&labelColor=050816" alt="WebRTC focus" />
-      <p><strong>debugging</strong></p>
-    </td>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/MEDIA-AI--READY-8B5CF6?style=for-the-badge&labelColor=050816" alt="AI-ready media" />
-      <p><strong>audio / FFmpeg</strong></p>
-    </td>
-    <td align="left" valign="top" width="25%">
-      <img src="https://img.shields.io/badge/STACK-GO-FF2BD6?style=for-the-badge&labelColor=050816&logo=go&logoColor=00E5FF" alt="Go stack" />
-      <p><strong>Pion · gRPC · MQTT</strong></p>
-    </td>
-  </tr>
-</table>
+## 代表工作
 
-</div>
+### [ohscrcpy](https://www.lodan.me/zh-cn/products/ohscrcpy/)
 
-<div align="center">
+面向 OpenHarmony 和 Android 设备的 Windows 投屏与远程控制工具。支持 ADB/HDC 设备识别与路由、单设备和多设备工作流、局域网连接及 Windows 离线分发。
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF2BD6,50:8B5CF6,100:00E5FF&section=footer&animation=twinkling" alt="Neon footer wave" width="100%" />
+[产品介绍](https://www.lodan.me/zh-cn/products/ohscrcpy/) · [GitHub Releases](https://github.com/snowlyg/ohscrcpy-releases)
 
-<strong>Open to WebRTC, RTC infrastructure and Go backend roles or collaboration.</strong>
+### [GoEasyFfmpeg](https://github.com/snowlyg/GoEasyFfmpeg)
 
-<br />
-<br />
+用于管理 FFmpeg 推流进程以及 RTMP、RTSP、HLS、FLV 工作流的 Go 服务。项目基于早期 EasyDarwin 工作扩展，并记录了实现取舍与已知限制。
 
-For hiring or collaboration: <a href="mailto:brendenaudrina6287@gmail.com">brendenaudrina6287@gmail.com</a>
+[源代码](https://github.com/snowlyg/GoEasyFfmpeg)
 
-<br />
+### 生产环境 RTC 可靠性
 
-Twitter: <a href="https://twitter.com/rodin990">@rodin990</a>
+大部分生产环境 RTC 网关代码属于非公开项目。下面的技术文章记录了我可以公开分享的部分，包括 Android 与 OpenHarmony 通话行为、coturn 与 ICE 路径、音频 3A、播放延迟及生产故障分析。
 
-</div>
+<a id="zh-engineering-notes"></a>
+
+## 技术文章
+
+- **2026-06-14** — [使用 AEC_DUMP 与 Audacity 排查 Android WebRTC 音频 3A](https://www.lodan.me/zh-cn/posts/android-webrtc-aecdump-audio-3a-debugging/)
+- **2026-06-09** — [排查 OpenHarmony 5.0 上的 WebRTC 音频播放延迟](https://www.lodan.me/zh-cn/posts/openharmony-arkweb-webrtc-audio-playback-latency/)
+- **2026-06-06** — [Android 14 床旁设备上的 WebRTC 回声与噪声优化](https://www.lodan.me/zh-cn/posts/android14-bedside-webrtc-echo-noise-optimization/)
+
+[阅读全部技术文章](https://www.lodan.me/zh-cn/posts/)
+
+## 技术栈
+
+- **后端：** Go、gRPC、WebSocket、MQTT、MySQL、Redis
+- **RTC 与媒体：** WebRTC、Pion、coturn、ICE/STUN/TURN、FFmpeg、RTP/RTSP/RTMP/HLS
+- **平台：** Android、OpenHarmony、Linux、Docker
+
+## 联系方式
+
+我目前开放 Go 后端、RTC 基础设施、实时音视频相关职位及技术合作机会。
+
+[个人主页](https://www.lodan.me/zh-cn/) · [联系方式](https://www.lodan.me/zh-cn/contact/) · [X / Twitter](https://twitter.com/rodin990)
